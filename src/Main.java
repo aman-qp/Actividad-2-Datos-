@@ -1,3 +1,5 @@
+// Amanda Quesada Porras -2023086337
+// Mauricio Rojas Machado -2023282452
 public class Main {
     public static void main(String[] args) {
         Lista<Integer> lista = new Lista<>();
